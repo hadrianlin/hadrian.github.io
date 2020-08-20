@@ -13,5 +13,12 @@
       <guid>http://yoursite.com/item001</guid>
       <description>Information about Web Page 1</description>
     </item>
+    <item>
+      <title>Item Added 2</title>
+      <pubDate>Wed, 20 Aug 2020 12:40:21 GMT</pubDate>
+      <link>http://yoursite.com/webpage1.html</link>
+      <guid>http://yoursite.com/item001</guid>
+      <description>Information about Web Page 1 - item 2</description>
+    </item>
   </channel>
 </rss>
